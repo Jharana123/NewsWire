@@ -33,7 +33,6 @@ useEffect(()=>{
                   style={{ width: "100%", height: "250px" }}
                 />
                 <div className="author">
-                  <span>Jharana</span>
                   <span>{item.author}</span>
                 </div>
                 <div className="content">
